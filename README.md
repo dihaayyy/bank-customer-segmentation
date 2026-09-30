@@ -68,8 +68,8 @@ The perfect scores are expected, not a sign of overfitting. The labels were prod
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/dihaayyy/bank-customer-segmentation.git
+cd bank-customer-segmentation
 pip install -r requirements.txt
 jupyter notebook
 ```
